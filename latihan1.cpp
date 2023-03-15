@@ -4,9 +4,9 @@ using namespace std; //program utama line 4 - 21
  int main (){//begin
 
  //numeric Luas, P, L
- double Luas, P, L
+ double Luas, P, L;
  //Display, "Masukkan Panjangnya : " 
-cout << "Masukkan Panjangnya : ";
+cout<< "Masukkan Panjangnya : ";
 //Accept P
 cin >> P ;
 //Display, "Masukkan Lebarnya : "
